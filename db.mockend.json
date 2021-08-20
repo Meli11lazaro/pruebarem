@@ -1,0 +1,26 @@
+{
+   "Contacto": [
+      {
+        
+         "id": 1,
+         "Nombre": "Meliza",
+         "Apellido": "Lazaro",
+         "Email": "Laz45@gmail.com",
+         "Telefono": 7731883519,
+         "Colonia": "San Pedro",
+         "Calle": "Av Tolteca",
+         "Ninte": 45
+      },
+      {
+         
+         "id": 2,
+         "Nombre": "Meliza",
+         "Apellido": "Lazaro",
+         "Email": "Lazaro@gmail.com",
+         "Telefono": 7731993519,
+         "Colonia": "San Pedro",
+         "Calle": "Av Tolteca",
+         "Ninte": 45
+      }
+   ]
+}
